@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Scott\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.4.1\df470d263438048af74860ca51fc497c16a0c76a\gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\Map\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-b0f65787cbfae37b72d0caa0c57218ab0601633f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.4.1\9e6453d244896698694a7f3059f15ae509044101\gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9e6453d244896698694a7f3059f15ae509044101">
+        <dex dex="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\Map\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-0ef1a00492ac55c348c224b240095ff3a9dbb01c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.4.1\eca2621f18b162c03992bd3ecc226e8a477dc6f9\gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\Map\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-83074c5b93151e6a3198411df71da2ffeaea9044.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="8c66c5e19cacc90a7a9e4e09a2739702d8ad0a55">
+        <dex dex="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\android\build\intermediates\pre-dexed\debug\core-1.0-d7eb2e2a19e35323ef2dabb4fa52f75dd321cc13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\Map\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a1a16d62e4923c093d97ab6717815b31b4d5e42f">
+        <dex dex="C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\Map\android\build\intermediates\pre-dexed\debug\core-1.0-91f566a7dc6d5c9495303c439716f031f010eaa0.jar" />
+    </item>
+
+</items>

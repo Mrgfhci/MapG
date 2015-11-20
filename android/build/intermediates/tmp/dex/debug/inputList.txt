@@ -1,0 +1,5 @@
+C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\android\build\intermediates\classes\debug
+C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\android\build\intermediates\pre-dexed\debug\core-1.0-d7eb2e2a19e35323ef2dabb4fa52f75dd321cc13.jar
+C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-0ef1a00492ac55c348c224b240095ff3a9dbb01c.jar
+C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-83074c5b93151e6a3198411df71da2ffeaea9044.jar
+C:\Users\Scott\Documents\AndroidStudioProjects\201409 Finals\LibGDX1\MapG\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-b0f65787cbfae37b72d0caa0c57218ab0601633f.jar
